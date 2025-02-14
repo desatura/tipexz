@@ -3183,9 +3183,11 @@ https://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 #EXTINF:-1,METRO TV
 https://op-group1-swiftservehd-1.dens.tv/h/h12/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=Metro_TV|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
 #EXTINF:-1,METRO TV 2
-https://op-group1-swiftservehd-1.dens.tv/h/h12/02.m3u8
+https://cdn14jtedge.indihometv.com/atm/hlsv3/METRO_TV/METRO_TV-avc1_800000=7-mp4a_96000=2-begin=3194480300000000-dur=100000000-seq=31944804.ts
 #EXTINF:-1,KOMPAS TV
 https://op-group1-swiftservehd-1.dens.tv/h/h234/01.m3u8
+#EXTINF:-1,KOMPAS TV 2
+https://cdn14jtedge.indihometv.com/atm/hlsv3/KOMPAS_TV/KOMPAS_TV-avc1_1200000=8-mp4a_96000=2.m3u8?encp=2b9Qep3yMocayn9AIhFvKA&uid=&expp=1739529266
 #EXTINF:-1,TVRI
 https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
 #EXTINF:-1,TRANS 7
